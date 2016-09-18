@@ -1,0 +1,1666 @@
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
+u'2016-08-03T17:28:53Z'
+u'2016-08-04T21:37:52Z'
+Destroying droplet: 5b6aac13-3b9c-4747-b593-a2a9ba62c4ad
+Destroy successful!
+u'2016-08-04T21:37:52Z'
+Destroying droplet: e4d34be8-3408-469b-ab7f-4f36a6d7f2f7
+Destroy successful!
+u'2016-08-04T21:37:53Z'
+Destroying droplet: 3ed85f44-5f08-4daa-8a40-dce155474c23
+Destroy successful!
+u'2016-08-04T21:37:53Z'
+Destroying droplet: f2c3bb12-1324-471c-8244-d83a1f62b121
+Destroy successful!
+u'2016-08-04T21:37:54Z'
+Destroying droplet: 98a50419-c745-44df-b7f9-435fcfeb98d0
+Destroy successful!
+u'2016-08-04T21:37:54Z'
+Destroying droplet: 1f87ae38-11e6-4a1b-8e89-b0f1198b6bd2
+Destroy successful!
+u'2016-08-04T21:37:55Z'
+Destroying droplet: cd4dd7f6-9265-46c2-8cfa-1daed0e3e488
+Destroy successful!
+u'2016-08-04T21:37:55Z'
+Destroying droplet: 7b1279a6-3977-4c2d-b5b7-aab41681b4aa
+Destroy successful!
+u'2016-08-04T21:37:55Z'
+Destroying droplet: 5c654143-a421-4574-90ee-e41ba8311b21
+Destroy successful!
+u'2016-08-04T21:37:56Z'
+Destroying droplet: f4e90cfc-f8db-441c-94a0-661cccebaae0
+Destroy successful!
+u'2016-08-04T21:37:56Z'
+Destroying droplet: 7892fb75-0a20-428a-acd1-b2d3a1b33f46
+Destroy successful!
+u'2016-08-04T21:37:57Z'
+Destroying droplet: cd66e5e1-f73b-4d8b-99be-a9648c994683
+Destroy successful!
+u'2016-08-04T21:37:57Z'
+Destroying droplet: 83881aaa-e31b-428f-9169-5e2c6ce0d399
+Destroy successful!
+u'2016-08-04T21:37:57Z'
+Destroying droplet: c28df646-5d07-4ef4-ace6-ab5f4a57aeea
+Destroy successful!
+u'2016-08-04T21:37:58Z'
+Destroying droplet: 48ea43e4-b62f-431f-bf7f-7172472bd949
+Destroy successful!
+u'2016-08-04T22:08:18Z'
+Destroying droplet: 6d903ca5-5ad9-4459-bee4-aa9d7906a2e7
+Destroy successful!
+u'2016-08-04T22:08:18Z'
+Destroying droplet: 8de81709-8080-4faa-bc90-af0ee22963c2
+Destroy successful!
+u'2016-08-04T22:08:19Z'
+Destroying droplet: 657b386e-bce9-4c8b-a14c-b4d9b258ec03
+Destroy successful!
+u'2016-08-04T22:08:19Z'
+Destroying droplet: 7c6ec106-5e12-43df-b5e2-7d809dfa19ff
+Destroy successful!
+u'2016-08-04T22:08:20Z'
+Destroying droplet: 959f1a32-1b68-4321-a034-2de92e9d7784
+Destroy successful!
+u'2016-08-04T22:08:20Z'
+Destroying droplet: 74bc9538-e15f-4b8b-a2a7-6717fa838d0a
+Destroy successful!
+u'2016-08-04T22:08:20Z'
+Destroying droplet: 2f6d49ff-0535-4668-800e-6b36249c546e
+Destroy successful!
+u'2016-08-04T22:08:21Z'
+Destroying droplet: 057123d0-4aaa-40d1-95a1-1126621a15e3
+Destroy successful!
+u'2016-08-04T22:08:21Z'
+Destroying droplet: 25bf5a09-6476-4933-b661-87fa299de93d
+Destroy successful!
+u'2016-08-04T22:08:22Z'
+Destroying droplet: 78826a18-93e5-4089-a7f8-a1870f5f026b
+Destroy successful!
+u'2016-08-04T22:08:22Z'
+Destroying droplet: e75fad3e-e7a9-474e-8b11-1b527501a335
+Destroy successful!
+u'2016-08-04T22:08:23Z'
+Destroying droplet: c5af33f2-16a8-41e9-bd14-91ff4cf4b208
+Destroy successful!
+u'2016-08-04T22:08:23Z'
+Destroying droplet: e885bfd4-3df7-4dc0-8e52-85fa787b04a6
+Destroy successful!
+u'2016-08-04T22:08:24Z'
+Destroying droplet: e9ff0119-7f4f-4004-8a5d-a37958b36bda
+Destroy successful!
+u'2016-08-04T22:08:24Z'
+Destroying droplet: e6734ceb-dca0-40db-8ab1-e9991246ea00
+Destroy successful!
+u'2016-08-04T22:08:24Z'
+Destroying droplet: 2842c523-14a0-4fc8-b781-6afd3012b95f
+Destroy successful!
+u'2016-08-04T22:08:25Z'
+Destroying droplet: 9a25d75c-70d4-4ff8-83d1-56fc046a38ca
+Destroy successful!
+u'2016-08-04T22:08:25Z'
+Destroying droplet: 34d9c835-dc36-4a77-a330-83cdfaa30aa1
+Destroy successful!
+u'2016-08-04T22:08:26Z'
+Destroying droplet: 6a8b1992-1855-47b0-8ed1-65a5b6aaacf1
+Destroy successful!
+u'2016-08-04T22:08:26Z'
+Destroying droplet: 22825710-a9a2-43fe-8c4b-36925d3fa388
+Destroy successful!
+u'2016-08-04T22:08:26Z'
+Destroying droplet: 13f91c9d-1b6d-4bff-8577-2143abb49dc2
+Destroy successful!
+u'2016-08-04T22:08:27Z'
+Destroying droplet: a3627da5-f510-483b-a2ea-5828091c66af
+Destroy successful!
+u'2016-08-04T22:08:27Z'
+Destroying droplet: dfb17a03-1b00-4614-bc48-6d31096e8848
+Destroy successful!
+u'2016-08-04T22:08:28Z'
+Destroying droplet: 90a2912e-0722-4c5e-8110-8d58120c5ba7
+Destroy successful!
+u'2016-08-04T22:08:28Z'
+Destroying droplet: c62eec30-5ca4-478a-a1f8-dd07c1cd9b54
+Destroy successful!
+u'2016-08-04T22:08:28Z'
+Destroying droplet: 8982f798-f73e-41f7-86fa-9b306d5e051c
+Destroy successful!
+u'2016-08-04T22:08:29Z'
+Destroying droplet: b99ddd70-9dd8-46b9-ab97-8211515fdabc
+Destroy successful!
+u'2016-08-04T22:08:29Z'
+Destroying droplet: 11fdeaff-5cc6-4da5-b19f-33d3dfd1a38d
+Destroy successful!
+u'2016-08-04T22:08:30Z'
+Destroying droplet: 71061938-49fc-48de-b9cd-888112079c7c
+Destroy successful!
+u'2016-08-04T22:08:30Z'
+Destroying droplet: 97b8047b-4220-48df-a4c8-840427d42f13
+Destroy successful!
+u'2016-08-04T22:08:31Z'
+Destroying droplet: 3d08512c-9e7a-4a42-8f00-eafa913b997b
+Destroy successful!
+u'2016-08-04T22:08:31Z'
+Destroying droplet: a84cf971-1fee-4655-8f26-ca3581c0bce0
+Destroy successful!
+u'2016-08-04T22:08:32Z'
+Destroying droplet: b8e19112-ce52-47d9-b9c3-bca0915aa0bf
+Destroy successful!
+u'2016-08-04T22:08:32Z'
+Destroying droplet: 461d0dbd-7652-4d59-b7ac-8b6f6069b5b5
+Destroy successful!
+u'2016-08-04T22:08:32Z'
+Destroying droplet: b09377cd-51ee-4a65-ac2a-8f8890c56102
+Destroy successful!
+u'2016-08-04T22:08:33Z'
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
+u'2016-08-03T17:28:53Z'
+u'2016-08-04T22:08:33Z'
+Destroying droplet: aebc065c-8cd7-47f8-8d2a-f0646836d568
+Destroy successful!
+u'2016-08-04T22:08:33Z'
+Destroying droplet: d61add2e-f48b-43cd-a29a-c4050dc72394
+Destroy successful!
+u'2016-08-04T22:08:34Z'
+Destroying droplet: e21ee0e0-a015-411d-b1eb-4a1cf10c854a
+Destroy successful!
+u'2016-08-04T22:08:34Z'
+Destroying droplet: 6b22c0d7-1490-4193-be1e-1ac7eb18b480
+Destroy successful!
+u'2016-08-04T22:08:35Z'
+Destroying droplet: e51c42b6-621a-4002-a148-c8e04006a012
+Destroy successful!
+u'2016-08-04T22:08:35Z'
+Destroying droplet: 710d2f4d-9a51-40d5-955e-d25cc7f664a7
+Destroy successful!
+u'2016-08-04T22:08:36Z'
+Destroying droplet: e82066bb-6933-46b0-8be5-cfcf6998240e
+Destroy successful!
+u'2016-08-04T22:08:36Z'
+Destroying droplet: 8299d1c1-7a58-4aef-afc9-62e68f846271
+Destroy successful!
+u'2016-08-04T22:08:36Z'
+Destroying droplet: 04b4bcdc-3905-4dc3-884a-6f9d6f793532
+Destroy successful!
+u'2016-08-04T22:08:37Z'
+Destroying droplet: 6b3e577b-0eff-4063-a391-e6d42ec1847d
+Destroy successful!
+u'2016-08-04T22:08:37Z'
+Destroying droplet: 6458169a-c527-4169-813e-c887c0f0d64d
+Destroy successful!
+u'2016-08-04T22:08:38Z'
+Destroying droplet: 31d7b0f2-b499-4df8-8187-076fd2bcb92d
+Destroy successful!
+u'2016-08-04T22:08:38Z'
+Destroying droplet: 424ca109-6242-42db-a0d5-ce52d6889dd1
+Destroy successful!
+u'2016-08-04T22:08:39Z'
+Destroying droplet: 12bce3dd-9084-4245-b28c-25458df4985f
+Destroy successful!
+u'2016-08-04T22:08:40Z'
+Destroying droplet: 5a922f36-1214-4962-ba02-3006052c6bdb
+Destroy successful!
+u'2016-08-04T22:14:36Z'
+Destroying droplet: 485c1ea6-d088-4f50-afe6-77537542db1c
+Destroy successful!
+u'2016-08-04T22:14:36Z'
+Destroying droplet: 44a2ceb1-3937-4a38-9b33-7eee752bde18
+Destroy successful!
+u'2016-08-04T22:14:37Z'
+Destroying droplet: 876f847f-4034-4549-883a-b4215416141a
+Destroy successful!
+u'2016-08-04T22:14:37Z'
+Destroying droplet: 299b5da7-a8b0-4e2e-8f9d-fef2366c7a95
+Destroy successful!
+u'2016-08-04T22:14:38Z'
+Destroying droplet: 3b519484-cab5-4687-b8d2-213d8080c02c
+Destroy successful!
+u'2016-08-04T22:14:38Z'
+Destroying droplet: f270c00e-3bc4-4d6b-9125-00fbe92c5a0d
+Destroy successful!
+u'2016-08-04T22:14:38Z'
+Destroying droplet: 19638423-213b-46bc-96d8-115c2cf2cfab
+Destroy successful!
+u'2016-08-04T22:14:39Z'
+Destroying droplet: 489e0414-6595-48b1-b144-6f59bc2284ad
+Destroy successful!
+u'2016-08-04T22:14:39Z'
+Destroying droplet: 3cf9ea54-7fcf-4ae7-82a8-a725b6ebd4be
+Destroy successful!
+u'2016-08-04T22:14:40Z'
+Destroying droplet: 3f7078ee-1802-4fdb-b927-5f1dd8dd3f7f
+Destroy successful!
+u'2016-08-04T22:14:40Z'
+Destroying droplet: 7bb1a76e-cf3b-4203-a8d9-1dc4afa6cb06
+Destroy successful!
+u'2016-08-04T22:14:41Z'
+Destroying droplet: 32358c70-5e7a-41ee-b544-81f293650e49
+Destroy successful!
+u'2016-08-04T22:14:41Z'
+Destroying droplet: caa692e8-59be-40cb-8aa2-1ebe3221cc0e
+Destroy successful!
+u'2016-08-04T22:14:42Z'
+Destroying droplet: 4b5d7d3c-be88-4573-a1ab-aba9d2cd22ac
+Destroy successful!
+u'2016-08-04T22:14:42Z'
+Destroying droplet: 78afc266-423a-4514-8d76-18e5994cd7bd
+Destroy successful!
+u'2016-08-04T22:14:43Z'
+Destroying droplet: 89493163-41e9-4904-8739-36b5725a7b8a
+Destroy successful!
+u'2016-08-04T22:14:43Z'
+Destroying droplet: e7215afe-f3af-4b36-9d11-3df385338ec8
+Destroy successful!
+u'2016-08-04T22:14:43Z'
+Destroying droplet: d2c5fb2d-0201-4f91-b6d5-bcdbd3c270d3
+Destroy successful!
+u'2016-08-04T22:14:44Z'
+Destroying droplet: e5a7f210-5aa0-4097-b370-0fa014d0a2bc
+Destroy successful!
+u'2016-08-04T22:14:44Z'
+Destroying droplet: 230c11eb-6dab-47ea-a276-fa83c0e6d4d1
+Destroy successful!
+u'2016-08-04T22:14:45Z'
+Destroying droplet: 140187b6-16b5-4fde-bdc9-350fe9cad409
+Destroy successful!
+u'2016-08-04T22:14:45Z'
+Destroying droplet: fd57fef0-74aa-4058-bee2-6259686151ab
+Destroy successful!
+u'2016-08-04T22:14:46Z'
+Destroying droplet: fb7cb3d4-a118-4176-b271-c4beddbe7714
+Destroy successful!
+u'2016-08-04T22:14:46Z'
+Destroying droplet: 980518ea-d968-45a3-9d8b-20f6841eb4ca
+Destroy successful!
+u'2016-08-04T22:14:47Z'
+Destroying droplet: 0ff04faf-a823-45a5-bd57-7cc9d4349a7b
+Destroy successful!
+u'2016-08-04T22:14:47Z'
+Destroying droplet: 1fd82b3e-8e47-4eab-8763-032971e948f1
+Destroy successful!
+u'2016-08-04T22:14:48Z'
+Destroying droplet: 165a0f22-7fe9-4d2f-bc3e-72d02b4ab96c
+Destroy successful!
+u'2016-08-04T22:14:48Z'
+Destroying droplet: af0a55a7-4cf7-4217-b05a-df3820fe323d
+Destroy successful!
+u'2016-08-04T22:14:49Z'
+Destroying droplet: f2723310-2110-4944-97c3-e697334d7308
+Destroy successful!
+u'2016-08-04T22:14:49Z'
+Destroying droplet: ea800b7e-983c-4829-8249-3f0f65f40828
+Destroy successful!
+u'2016-08-04T22:14:50Z'
+Destroying droplet: 47f17b6d-09d6-4802-b9ef-c5ffaeb9939e
+Destroy successful!
+u'2016-08-04T22:14:50Z'
+Destroying droplet: 70907506-228a-4f99-94da-ad8d2d600e2d
+Destroy successful!
+u'2016-08-04T22:14:50Z'
+Destroying droplet: ffa7d726-2f8b-4742-875c-8b4a853a4f8e
+Destroy successful!
+u'2016-08-04T22:14:51Z'
+Destroying droplet: d32a6669-fbbb-465d-a3d6-1c76a3e6e5c7
+Destroy successful!
+u'2016-08-04T22:14:52Z'
+Destroying droplet: 6a125f5b-66a2-49e1-9181-fea5cb22fe6b
+Destroy successful!
+u'2016-08-04T22:14:52Z'
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
+u'2016-08-03T17:28:53Z'
+u'2016-08-04T22:14:52Z'
+Destroying droplet: d3d39a22-bf99-45b9-a6ec-c18e01dd4faa
+Destroy successful!
+u'2016-08-04T22:14:52Z'
+Destroying droplet: d8685bf9-2063-42f8-8901-8ce8202f0304
+Destroy successful!
+u'2016-08-04T22:14:53Z'
+Destroying droplet: 27bfcfa9-80e0-4507-bbb7-519bc1ccd112
+Destroy successful!
+u'2016-08-04T22:14:53Z'
+Destroying droplet: 51796379-451e-417e-9c96-5e7495569431
+Destroy successful!
+u'2016-08-04T22:14:54Z'
+Destroying droplet: ba02ea54-b609-4a85-bde8-0e42c1b7f6ea
+Destroy successful!
+u'2016-08-04T22:14:54Z'
+Destroying droplet: a32a21cd-3c83-4ccf-a5a2-46dc7b86ae51
+Destroy successful!
+u'2016-08-04T22:14:55Z'
+Destroying droplet: 1117620c-238c-49b2-bf49-de56e3fc984a
+Destroy successful!
+u'2016-08-04T22:14:56Z'
+Destroying droplet: 682192f8-c83c-4c85-a432-8b975305ef40
+Destroy successful!
+u'2016-08-04T22:14:56Z'
+Destroying droplet: ee3010c2-ec7e-471a-8bd1-a419a9c82ac3
+Destroy successful!
+u'2016-08-04T22:14:57Z'
+Destroying droplet: 25d75862-eddd-4775-b4e1-b4021890d891
+Destroy successful!
+u'2016-08-04T22:14:57Z'
+Destroying droplet: f0011f4e-ae40-4ac3-84ad-99b3167150b8
+Destroy successful!
+u'2016-08-04T22:14:57Z'
+Destroying droplet: 26e06557-3920-4e1a-9093-7bfc6c39e685
+Destroy successful!
+u'2016-08-04T22:14:58Z'
+Destroying droplet: 66ec1060-45aa-4ab8-8307-7634156e0410
+Destroy successful!
+u'2016-08-04T22:14:58Z'
+Destroying droplet: 2708b98b-77d9-4a8f-a2cb-b33cca31bb34
+Destroy successful!
+u'2016-08-04T22:14:59Z'
+Destroying droplet: 5bb9fdbb-2923-40d6-9db8-861a8392c776
+Destroy successful!
+u'2016-08-04T22:17:17Z'
+Destroying droplet: d17e2906-bf74-4f67-b776-e2b6f8407b53
+Destroy successful!
+u'2016-08-04T22:17:18Z'
+Destroying droplet: 191f6a1a-f230-4177-bd25-1da0cfccbac5
+Destroy successful!
+u'2016-08-04T22:17:18Z'
+Destroying droplet: 3a0b5988-94de-41a9-8ee9-276fecf2bb6d
+Destroy successful!
+u'2016-08-04T22:17:18Z'
+Destroying droplet: 48d59f7a-f82d-4ee4-ad18-28f471dd09a4
+Destroy successful!
+u'2016-08-04T22:17:19Z'
+Destroying droplet: 2da3a90e-def3-4f87-8d4d-24039d029bce
+Destroy successful!
+u'2016-08-04T22:17:19Z'
+Destroying droplet: bf13df45-3699-4fcc-899d-ad788aa0256c
+Destroy successful!
+u'2016-08-04T22:17:20Z'
+Destroying droplet: 926e2e4e-8e2d-4cde-8cfa-52d22b141acb
+Destroy successful!
+u'2016-08-04T22:17:20Z'
+Destroying droplet: 7b8fe2ab-3085-47a7-a2c6-52dcb5e2d855
+Destroy successful!
+u'2016-08-04T22:17:21Z'
+Destroying droplet: 3dea100d-e59f-4d59-bff1-e8cf5ffb32e3
+Destroy successful!
+u'2016-08-04T22:17:21Z'
+Destroying droplet: c151a350-09bb-4ad3-a705-db002c52735c
+Destroy successful!
+u'2016-08-04T22:17:22Z'
+Destroying droplet: 93e75fa4-5790-4e73-b49d-ca58d00346bd
+Destroy successful!
+u'2016-08-04T22:17:22Z'
+Destroying droplet: 6ee1d3fb-bca9-4f89-83e2-2e2550566ac6
+Destroy successful!
+u'2016-08-04T22:17:23Z'
+Destroying droplet: ed524bce-0a53-465d-a39f-b940d6dfd907
+Destroy successful!
+u'2016-08-04T22:17:23Z'
+Destroying droplet: b6c3a808-d669-48c8-a6ac-b941e4fdeaff
+Destroy successful!
+u'2016-08-04T22:17:24Z'
+Destroying droplet: c1645d09-0d61-40f6-9c6e-c4a1f2b238d2
+Destroy successful!
+u'2016-08-04T22:17:24Z'
+Destroying droplet: 6b4bf57a-1c14-472d-8aba-0d35fe407208
+Destroy successful!
+u'2016-08-04T22:17:25Z'
+Destroying droplet: 10876fd2-1f37-4fd5-87fc-64e140d5f8a6
+Destroy successful!
+u'2016-08-04T22:17:25Z'
+Destroying droplet: a3d94619-acde-482a-af46-bb7d094662ef
+Destroy successful!
+u'2016-08-04T22:17:26Z'
+Destroying droplet: b8a2fdec-48f3-4d3e-922a-2f21ab8c81c9
+Destroy successful!
+u'2016-08-04T22:17:26Z'
+Destroying droplet: 93fb7b72-ad48-493f-8410-10311779bff2
+Destroy successful!
+u'2016-08-04T22:17:27Z'
+Destroying droplet: d4f741ef-318e-4d26-b04f-7f0ab9d3f978
+Destroy successful!
+u'2016-08-04T22:17:27Z'
+Destroying droplet: 970b3fb7-0fb9-469c-8864-3c8390d51af6
+Destroy successful!
+u'2016-08-04T22:17:28Z'
+Destroying droplet: 9104a316-fb0d-4f3c-b4c6-d41883081e6a
+Destroy successful!
+u'2016-08-04T22:17:28Z'
+Destroying droplet: 2d3137fa-4b64-478b-a21d-99fd0662228e
+Destroy successful!
+u'2016-08-04T22:17:29Z'
+Destroying droplet: 8b46c92e-d3aa-4f16-ada4-3687f976e9b1
+Destroy successful!
+u'2016-08-04T22:17:29Z'
+Destroying droplet: e2602ead-2d69-42d7-826b-65c0d1987c9a
+Destroy successful!
+u'2016-08-04T22:17:30Z'
+Destroying droplet: 3042964b-68d6-402c-bbfd-1ff4e08ef4aa
+Destroy successful!
+u'2016-08-04T22:17:30Z'
+Destroying droplet: 6d43f418-d30d-4046-8f6f-784162a54f0f
+Destroy successful!
+u'2016-08-04T22:17:31Z'
+Destroying droplet: 7ad5e46d-d0a1-4fb6-83bc-29ab7c5c9d3a
+Destroy successful!
+u'2016-08-04T22:17:31Z'
+Destroying droplet: 4876c754-7771-439e-b20f-97133a9eb832
+Destroy successful!
+u'2016-08-04T22:17:31Z'
+Destroying droplet: 27d1c356-621e-4549-8665-0f4615e68608
+Destroy successful!
+u'2016-08-04T22:17:32Z'
+Destroying droplet: 6ebbcb1e-663e-41c6-83a5-976506ae1edd
+Destroy successful!
+u'2016-08-04T22:17:32Z'
+Destroying droplet: 9ca1fdf9-2c56-4ed6-a349-bbe991d07b92
+Destroy successful!
+u'2016-08-04T22:17:33Z'
+Destroying droplet: 0a8ae4f1-d0d9-45b6-93c3-4216400d025c
+Destroy successful!
+u'2016-08-04T22:17:34Z'
+Destroying droplet: 4c2ac414-ffc2-4169-b62e-b3108051ab71
+Destroy successful!
+u'2016-08-04T22:17:34Z'
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
+u'2016-08-03T17:28:53Z'
+u'2016-08-04T22:17:34Z'
+Destroying droplet: 5c79cf1f-43e6-4c0f-a63d-634bee1403c9
+Destroy successful!
+u'2016-08-04T22:17:35Z'
+Destroying droplet: ac85d104-51be-416e-8d29-a67fbc5b85e8
+Destroy successful!
+u'2016-08-04T22:17:35Z'
+Destroying droplet: 9faf691f-9dc1-428f-b6a6-a41767930c55
+Destroy successful!
+u'2016-08-04T22:17:36Z'
+Destroying droplet: bde931a1-92a3-4a5c-aa26-82b1b4c3fe02
+Destroy successful!
+u'2016-08-04T22:17:36Z'
+Destroying droplet: 3907da4b-0a88-4755-87de-f6cb07629440
+Destroy successful!
+u'2016-08-04T22:17:37Z'
+Destroying droplet: 2d3ebdd7-c135-42bf-b085-9a889b805269
+Destroy successful!
+u'2016-08-04T22:17:37Z'
+Destroying droplet: f45bd21d-1aa0-41e6-819c-268660a7d3df
+Destroy successful!
+u'2016-08-04T22:17:38Z'
+Destroying droplet: a962508f-3387-46f1-ae13-0c9b95be22cd
+Destroy successful!
+u'2016-08-04T22:17:38Z'
+Destroying droplet: b8d87c7a-f3ed-4c69-aab5-0448aef978c2
+Destroy successful!
+u'2016-08-04T22:17:39Z'
+Destroying droplet: 0edc81d3-f443-4281-9d09-1e2cfee7ac16
+Destroy successful!
+u'2016-08-04T22:17:39Z'
+Destroying droplet: 4b1bcfde-fc0f-4b75-b4b1-67d14ae14b80
+Destroy successful!
+u'2016-08-04T22:17:40Z'
+Destroying droplet: fa148806-6194-4c9a-87f9-0eef141b246e
+Destroy successful!
+u'2016-08-04T22:17:40Z'
+Destroying droplet: 2c348eb7-1d63-4f08-9f4b-e90ccd48624d
+Destroy successful!
+u'2016-08-04T22:17:41Z'
+Destroying droplet: 5b14d0ae-b96c-4527-88d3-5e7953656d54
+Destroy successful!
+u'2016-08-04T22:17:41Z'
+Destroying droplet: b44ac352-b8b8-4b79-9d7f-b5c3e8f9522f
+Destroy successful!
+u'2016-08-04T23:11:55Z'
+Destroying droplet: 4798e037-f27b-4d9f-9a44-af713848686f
+Destroy successful!
+u'2016-08-04T23:11:55Z'
+Destroying droplet: eaec7e6b-fab3-406a-9149-097b5143c4f5
+Destroy successful!
+u'2016-08-04T23:11:56Z'
+Destroying droplet: be8d1b3e-10aa-4438-abd3-4b178bc55ffc
+Destroy successful!
+u'2016-08-04T23:11:56Z'
+Destroying droplet: 2154035e-e6b3-4714-aa4f-beff8bf05b6c
+Destroy successful!
+u'2016-08-04T23:11:56Z'
+Destroying droplet: 9d71a656-3f10-4099-9f2e-b6f2269ea288
+Destroy successful!
+u'2016-08-04T23:11:57Z'
+Destroying droplet: 2f54d479-cfbf-4d47-a1ad-63252f69faaf
+Destroy successful!
+u'2016-08-04T23:11:57Z'
+Destroying droplet: d570799c-209d-42e6-9a47-038cdc10cc79
+Destroy successful!
+u'2016-08-04T23:11:58Z'
+Destroying droplet: 49a4282a-4456-42cf-9838-dfe14ef017d5
+Destroy successful!
+u'2016-08-04T23:11:58Z'
+Destroying droplet: 924cdaa5-e92b-40a4-bdac-875e25aa42e0
+Destroy successful!
+u'2016-08-04T23:11:59Z'
+Destroying droplet: 1b2084c6-d693-4a16-8c64-c8694238b52d
+Destroy successful!
+u'2016-08-04T23:11:59Z'
+Destroying droplet: 82353c81-56e0-42e5-a64a-dc9c5142ef0e
+Destroy successful!
+u'2016-08-04T23:12:00Z'
+Destroying droplet: 72f89484-09a5-4d05-89b7-71a27cedc64c
+Destroy successful!
+u'2016-08-04T23:12:00Z'
+Destroying droplet: e9f6bc7d-5963-4a06-841e-895001b74040
+Destroy successful!
+u'2016-08-04T23:12:01Z'
+Destroying droplet: 0ae13a09-edee-4e43-b786-5181f7263530
+Destroy successful!
+u'2016-08-04T23:12:01Z'
+Destroying droplet: fc50553a-d3e6-44bc-a729-6bb649d0e36b
+Destroy successful!
+u'2016-08-04T23:12:02Z'
+Destroying droplet: a848b4cf-4448-489c-939e-ffe756cb11b5
+Destroy successful!
+u'2016-08-04T23:12:03Z'
+Destroying droplet: 8d308d06-b842-482a-8915-dd38a5bce5b5
+Destroy successful!
+u'2016-08-04T23:12:03Z'
+Destroying droplet: 4cc34530-dccf-44d5-a54e-8a554e2b0b1c
+Destroy successful!
+u'2016-08-04T23:12:04Z'
+Destroying droplet: 44700ffe-6163-40a4-9320-0daa3a073c4d
+Destroy successful!
+u'2016-08-04T23:12:04Z'
+Destroying droplet: 5ec2437c-c3a3-4a60-93ea-48fd501615de
+Destroy successful!
+u'2016-08-04T23:12:05Z'
+Destroying droplet: 4ef33fd2-19aa-4c5c-a750-da4a433dc0c2
+Destroy successful!
+u'2016-08-04T23:12:05Z'
+Destroying droplet: 4b343102-b874-4825-a5ff-031b3cd9a8ae
+Destroy successful!
+u'2016-08-04T23:12:06Z'
+Destroying droplet: 2a205f0c-b465-4f66-8af7-fcdfc55c1087
+Destroy successful!
+u'2016-08-04T23:12:06Z'
+Destroying droplet: e44c83d9-500e-43cc-8cab-0fe33fc34066
+Destroy successful!
+u'2016-08-04T23:12:07Z'
+Destroying droplet: 164086c4-f632-4aa9-8b59-4c1322c8d27a
+Destroy successful!
+u'2016-08-04T23:12:07Z'
+Destroying droplet: 9ceb35d3-4828-470b-b695-e4311aba017c
+Destroy successful!
+u'2016-08-04T23:12:08Z'
+Destroying droplet: 7d4494be-b428-4e57-8329-cc66281433b0
+Destroy successful!
+u'2016-08-04T23:12:08Z'
+Destroying droplet: 5e2411a9-a067-40b4-b58d-642657b004ae
+Destroy successful!
+u'2016-08-04T23:12:09Z'
+Destroying droplet: aa54d943-1a4a-47bb-a0b0-75b01c1860b5
+Destroy successful!
+u'2016-08-04T23:12:09Z'
+Destroying droplet: 7eff8b07-cb65-4477-8214-a1e9a8a2793d
+Destroy successful!
+u'2016-08-04T23:12:10Z'
+Destroying droplet: 89d6b649-6d98-43e6-851c-8e65f950760c
+Destroy successful!
+u'2016-08-04T23:12:10Z'
+Destroying droplet: dbd750af-08e7-49d7-a249-21f6fbdd8715
+Destroy successful!
+u'2016-08-04T23:12:10Z'
+Destroying droplet: 6c7a319f-7cbe-4ec7-8e5c-8ed4d689531f
+Destroy successful!
+u'2016-08-04T23:12:11Z'
+Destroying droplet: 53c3ac44-56a6-41be-9d77-b6539d2c99f5
+Destroy successful!
+u'2016-08-04T23:12:12Z'
+Destroying droplet: 9793b993-7096-4450-9d95-20c1d3fdd2c2
+Destroy successful!
+u'2016-08-04T23:12:12Z'
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
+u'2016-08-03T17:28:53Z'
+u'2016-08-04T23:12:12Z'
+Destroying droplet: a8ece5c6-10a5-4e49-837f-c764a0d3b837
+Destroy successful!
+u'2016-08-04T23:12:13Z'
+Destroying droplet: 7c0a131e-83a6-4a4e-b738-dfb75d63c673
+Destroy successful!
+u'2016-08-04T23:12:13Z'
+Destroying droplet: 51d1095d-88d2-458d-860e-ed8a528e665d
+Destroy successful!
+u'2016-08-04T23:12:13Z'
+Destroying droplet: 1a92cd05-dfeb-4155-b969-696195584a4e
+Destroy successful!
+u'2016-08-04T23:12:14Z'
+Destroying droplet: 25f49786-e441-4399-a56b-72dd6ee2ad52
+Destroy successful!
+u'2016-08-04T23:12:14Z'
+Destroying droplet: 4ca882e1-7e6d-41fc-a662-2ca435cc42d3
+Destroy successful!
+u'2016-08-04T23:12:15Z'
+Destroying droplet: 1857609c-4aeb-428d-a102-2745c19a1c90
+Destroy successful!
+u'2016-08-04T23:12:15Z'
+Destroying droplet: 15124621-61a3-4704-a4e0-79bbd0938d7b
+Destroy successful!
+u'2016-08-04T23:12:16Z'
+Destroying droplet: 19438a12-471f-4014-a7f9-c6a2a9589a05
+Destroy successful!
+u'2016-08-04T23:12:16Z'
+Destroying droplet: b07df18c-53e9-4818-b9c2-58fb58409414
+Destroy successful!
+u'2016-08-04T23:12:17Z'
+Destroying droplet: af0983f3-eb62-4509-85d0-064180a24606
+Destroy successful!
+u'2016-08-04T23:12:17Z'
+Destroying droplet: 90854805-2d82-4ecb-8480-a77de3eeb724
+Destroy successful!
+u'2016-08-04T23:12:18Z'
+Destroying droplet: 9b11729f-36f5-4593-ae01-4553e8f0062e
+Destroy successful!
+u'2016-08-04T23:12:18Z'
+Destroying droplet: c6224502-4342-4c5e-a2b0-5c0596f58767
+Destroy successful!
+u'2016-08-04T23:12:19Z'
+Destroying droplet: 1074011d-efce-4f5b-91ba-75ca6bbb773a
+Destroy successful!
+u'2016-08-05T00:06:31Z'
+Destroying droplet: 3ea1f206-a67c-4f30-94b7-4910c3a79bbf
+Destroy successful!
+u'2016-08-05T00:06:32Z'
+Destroying droplet: 7d23bab8-f307-4ecc-8f36-47521212e7f1
+Destroy successful!
+u'2016-08-05T00:06:33Z'
+Destroying droplet: 49a344c6-07a4-43c1-b6b9-8552189bd5af
+Destroy successful!
+u'2016-08-05T00:06:33Z'
+Destroying droplet: 4250e1a9-5e9d-46b8-993e-0de58d354a8a
+Destroy successful!
+u'2016-08-05T00:06:34Z'
+Destroying droplet: a8f57f3e-e24a-47dd-b11a-d139249b2e64
+Destroy successful!
+u'2016-08-05T00:06:34Z'
+Destroying droplet: 7d96d829-2c02-4193-990a-c8216e83db46
+Destroy successful!
+u'2016-08-05T00:06:34Z'
+Destroying droplet: 1049dd30-082f-4105-9a9d-3939b4ddee56
+Destroy successful!
+u'2016-08-05T00:06:35Z'
+Destroying droplet: d8bfad9b-ae0c-45c3-8c80-ff827d7a85a9
+Destroy successful!
+u'2016-08-05T00:06:35Z'
+Destroying droplet: 3e3a2a0e-aa39-4963-b45f-0eadfd3045b3
+Destroy successful!
+u'2016-08-05T00:06:36Z'
+Destroying droplet: 1f8c18b0-1f1b-48fa-a0a2-fa60b765a5eb
+Destroy successful!
+u'2016-08-05T00:06:36Z'
+Destroying droplet: f8b08b0e-35f4-46d3-8625-ed12a4f442b2
+Destroy successful!
+u'2016-08-05T00:06:37Z'
+Destroying droplet: 7bb6366a-e1ab-4aaf-83bd-79e756e74b8a
+Destroy successful!
+u'2016-08-05T00:06:37Z'
+Destroying droplet: 19ac2859-1dd3-43b7-9013-56624811a044
+Destroy successful!
+u'2016-08-05T00:06:38Z'
+Destroying droplet: 51e28080-83ef-4424-830e-a28739459ff4
+Destroy successful!
+u'2016-08-05T00:06:38Z'
+Destroying droplet: 21199fad-a88d-4e98-b733-36a4c8df4186
+Destroy successful!
+u'2016-08-05T00:06:39Z'
+Destroying droplet: e02c4588-b11f-40ae-8261-c27f5664c0ac
+Destroy successful!
+u'2016-08-05T00:06:39Z'
+Destroying droplet: 18bd3aaa-9c33-41c5-98c5-94478de14374
+Destroy successful!
+u'2016-08-05T00:06:39Z'
+Destroying droplet: 7d47ecdd-3010-4c3c-986f-91c47304b6dc
+Destroy successful!
+u'2016-08-05T00:06:40Z'
+Destroying droplet: 2cf8cb23-f727-4036-ab4c-8de5d0feb7fe
+Destroy successful!
+u'2016-08-05T00:06:40Z'
+Destroying droplet: 1eff2460-10d7-4bcc-bd55-829eac6949c9
+Destroy successful!
+u'2016-08-05T00:06:41Z'
+Destroying droplet: 31b29760-cfb9-4078-b7a6-cc82950acd9c
+Destroy successful!
+u'2016-08-05T00:06:41Z'
+Destroying droplet: 85fa9c30-a335-4e2b-891c-071240272289
+Destroy successful!
+u'2016-08-05T00:06:42Z'
+Destroying droplet: d68647ae-f561-46ad-ab10-2553da37b90c
+Destroy successful!
+u'2016-08-05T00:06:42Z'
+Destroying droplet: 3e8c4b58-a999-4d2f-bfc8-4a33d8042b6c
+Destroy successful!
+u'2016-08-05T00:06:43Z'
+Destroying droplet: 5d6a54cb-5313-477b-804b-386dad0c16ef
+Destroy successful!
+u'2016-08-05T00:06:44Z'
+Destroying droplet: 6d7434b1-0591-4de8-884f-c6eaa12f7bfe
+Destroy successful!
+u'2016-08-05T00:06:44Z'
+Destroying droplet: 97367791-0bda-48c8-b369-1b0f008313a0
+Destroy successful!
+u'2016-08-05T00:06:44Z'
+Destroying droplet: a47b46ae-0512-4d53-83f1-056bf98967b3
+Destroy successful!
+u'2016-08-05T00:06:45Z'
+Destroying droplet: 48c23a33-e9e3-42ca-bc0a-9ec05c622a49
+Destroy successful!
+u'2016-08-05T00:06:45Z'
+Destroying droplet: 99d65d28-0ae8-4b15-b8b8-3d4ddc4dd803
+Destroy successful!
+u'2016-08-05T00:06:46Z'
+Destroying droplet: 54164638-9ac6-4e18-9083-425a81a5f104
+Destroy successful!
+u'2016-08-05T00:06:46Z'
+Destroying droplet: 48750c36-164a-47c3-843a-1646c70134f9
+Destroy successful!
+u'2016-08-05T00:06:47Z'
+Destroying droplet: 38916c03-ca2d-4c69-bf13-2fdf8203786e
+Destroy successful!
+u'2016-08-05T00:06:47Z'
+Destroying droplet: f64981f7-551c-4fa5-bbfb-41e0491291ac
+Destroy successful!
+u'2016-08-05T00:06:48Z'
+Destroying droplet: 2babd92a-d27a-4558-99ab-39049801487b
+Destroy successful!
+u'2016-08-05T00:06:48Z'
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
+u'2016-08-03T17:28:53Z'
+u'2016-08-05T00:06:48Z'
+Destroying droplet: a61f537d-6122-4527-a0a9-c7ce79265cc0
+Destroy successful!
+u'2016-08-05T00:06:48Z'
+Destroying droplet: 83006ef5-a7b1-4f78-bd5a-e9955655b196
+Destroy successful!
+u'2016-08-05T00:06:49Z'
+Destroying droplet: 14affed9-a5e7-4552-9d91-181847a3b5b1
+Destroy successful!
+u'2016-08-05T00:06:49Z'
+Destroying droplet: f2db186d-68e7-4c4e-84c5-8ca15561a0dc
+Destroy successful!
+u'2016-08-05T00:06:50Z'
+Destroying droplet: 1f786658-6f21-401c-a435-bb04f0bebdc5
+Destroy successful!
+u'2016-08-05T00:06:50Z'
+Destroying droplet: e1c6bbe0-0d4b-4044-b901-505bf8ada6cc
+Destroy successful!
+u'2016-08-05T00:06:51Z'
+Destroying droplet: 749e1e7e-6f9d-421c-a36e-4b1cee0384dc
+Destroy successful!
+u'2016-08-05T00:06:51Z'
+Destroying droplet: de4219ea-8864-4c87-a92d-a6319d4211ea
+Destroy successful!
+u'2016-08-05T00:06:52Z'
+Destroying droplet: ea403072-c76f-4006-b6c6-69862d92c20d
+Destroy successful!
+u'2016-08-05T00:06:52Z'
+Destroying droplet: b05de845-bee6-40fb-b532-8bcac9a92759
+Destroy successful!
+u'2016-08-05T00:06:52Z'
+Destroying droplet: e2993c53-c1ec-4ae8-9ed2-14aed91dbe19
+Destroy successful!
+u'2016-08-05T00:06:53Z'
+Destroying droplet: 6b17a23f-2795-42a9-afed-53c7939d2dfb
+Destroy successful!
+u'2016-08-05T00:06:53Z'
+Destroying droplet: d3fe37da-08e6-44bf-9694-b7bdeab40edb
+Destroy successful!
+u'2016-08-05T00:06:54Z'
+Destroying droplet: a06b9810-2e7c-483b-ba91-870374efeb0c
+Destroy successful!
+u'2016-08-05T00:06:54Z'
+Destroying droplet: 54f6f4cc-82aa-4b33-a73b-b0485eae7644
+Destroy successful!
+u'2016-08-05T01:03:17Z'
+Destroying droplet: 5c4dfd53-178e-4ed9-98fc-d5457f85ea17
+Destroy successful!
+u'2016-08-05T01:03:17Z'
+Destroying droplet: dc4c567e-066d-4cb8-b3ae-a184fbb60d59
+Destroy successful!
+u'2016-08-05T01:03:18Z'
+Destroying droplet: a2a0bbb8-17ab-4ac8-bb4d-64717177b664
+Destroy successful!
+u'2016-08-05T01:03:18Z'
+Destroying droplet: e5cf2e40-fa3f-44eb-a143-ea9fdd29fe8b
+Destroy successful!
+u'2016-08-05T01:03:19Z'
+Destroying droplet: a896d876-b942-4ee3-90fb-33ed969bd9a6
+Destroy successful!
+u'2016-08-05T01:03:19Z'
+Destroying droplet: 44eb21ba-cd19-4df0-b737-b0d501000c7f
+Destroy successful!
+u'2016-08-05T01:03:20Z'
+Destroying droplet: b55f271b-7bc1-4c83-b69a-f9b6bc772538
+Destroy successful!
+u'2016-08-05T01:03:20Z'
+Destroying droplet: 6e62bdcc-4525-4fef-b191-af9136639265
+Destroy successful!
+u'2016-08-05T01:03:20Z'
+Destroying droplet: 2b4ac43c-efab-48f4-b20d-807b3fd7ee60
+Destroy successful!
+u'2016-08-05T01:03:21Z'
+Destroying droplet: 3528245a-4633-4a79-a0e3-147a7902a5b4
+Destroy successful!
+u'2016-08-05T01:03:21Z'
+Destroying droplet: 75f7eb26-bfd8-4f7c-b190-f74db71cd3e6
+Destroy successful!
+u'2016-08-05T01:03:22Z'
+Destroying droplet: c0f2352c-648d-476a-80d8-37c01645928e
+Destroy successful!
+u'2016-08-05T01:03:22Z'
+Destroying droplet: 115ed3ea-959d-412d-b4cf-8449481776c7
+Destroy successful!
+u'2016-08-05T01:03:23Z'
+Destroying droplet: 63f62516-4113-4aea-9742-8871e5bcb27a
+Destroy successful!
+u'2016-08-05T01:03:23Z'
+Destroying droplet: cbacd00d-9d84-477d-9c83-ec95c7aab479
+Destroy successful!
+u'2016-08-05T01:03:24Z'
+Destroying droplet: dbc337e7-f884-4135-bc5a-1089e1a9fdae
+Destroy successful!
+u'2016-08-05T01:03:25Z'
+Destroying droplet: f6058a8c-f2ae-4aae-8751-3b8bf970036c
+Destroy successful!
+u'2016-08-05T01:03:25Z'
+Destroying droplet: c5133a46-bf6f-48c7-a4aa-0ba5bfe4bff0
+Destroy successful!
+u'2016-08-05T01:03:25Z'
+Destroying droplet: 4ed82281-f54b-4613-ba89-918e917b1051
+Destroy successful!
+u'2016-08-05T01:03:26Z'
+Destroying droplet: 68a71f87-e198-4a6b-8b9a-59a3976bb246
+Destroy successful!
+u'2016-08-05T01:03:26Z'
+Destroying droplet: 27a529b3-9883-424b-bf98-6b8eac63c96f
+Destroy successful!
+u'2016-08-05T01:03:27Z'
+Destroying droplet: 799a4bde-656a-4d2c-aa14-ad3d4d1188d1
+Destroy successful!
+u'2016-08-05T01:03:27Z'
+Destroying droplet: 2ef0a1dd-2c58-4287-8a11-fac8360c5799
+Destroy successful!
+u'2016-08-05T01:03:27Z'
+Destroying droplet: 58ceff62-98d5-4b33-b0a3-bb342b03d309
+Destroy successful!
+u'2016-08-05T01:03:28Z'
+Destroying droplet: 95201a65-df54-4327-be0f-c4299e55a47c
+Destroy successful!
+u'2016-08-05T01:03:28Z'
+Destroying droplet: fc8d5f02-c73b-47c6-a14c-b773568eb1d6
+Destroy successful!
+u'2016-08-05T01:03:29Z'
+Destroying droplet: 5110fcf1-cf39-4f59-be23-d7f17a14f3bd
+Destroy successful!
+u'2016-08-05T01:03:29Z'
+Destroying droplet: 8a9e22e9-b190-4b12-b648-73cf042e045b
+Destroy successful!
+u'2016-08-05T01:03:30Z'
+Destroying droplet: 499fe6a0-b5e0-4b64-a9b9-db4d04bac006
+Destroy successful!
+u'2016-08-05T01:03:30Z'
+Destroying droplet: bb85012d-6128-489e-8170-f09e1a2828d5
+Destroy successful!
+u'2016-08-05T01:03:31Z'
+Destroying droplet: aadde436-e001-4f4d-a7f9-00bcd7b16dfe
+Destroy successful!
+u'2016-08-05T01:03:31Z'
+Destroying droplet: b79da0be-8eb0-4dbb-b805-1268d6b73de3
+Destroy successful!
+u'2016-08-05T01:03:31Z'
+Destroying droplet: cea850a0-7802-4d1f-94cb-07a04d64fab5
+Destroy successful!
+u'2016-08-05T01:03:32Z'
+Destroying droplet: 0f45868b-8e15-4792-ba1a-0f27bf2a46e6
+Destroy successful!
+u'2016-08-05T01:03:32Z'
+Destroying droplet: 41b6cff5-47e2-4a24-bc55-7d944fb1ab60
+Destroy successful!
+u'2016-08-05T01:03:33Z'
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
+u'2016-08-03T17:28:53Z'
+u'2016-08-05T03:42:20Z'
+Destroying droplet: 456d9e07-d4f1-4508-806a-a60d8a8ed537
+Destroy successful!
+u'2016-08-05T03:42:21Z'
+Destroying droplet: a6e2d474-d4e6-4eec-be68-59c4c0397783
+Destroy successful!
+u'2016-08-05T03:42:21Z'
+Destroying droplet: 571a47a2-9ce4-44d4-9273-42d44a3b84e0
+Destroy successful!
+u'2016-08-05T03:42:22Z'
+Destroying droplet: bb409a1b-7e46-4fe0-8150-7507aeb521c6
+Destroy successful!
+u'2016-08-05T03:42:22Z'
+Destroying droplet: 730fd7a3-401d-4002-a1a9-f8e0a21df72d
+Destroy successful!
+u'2016-08-05T03:42:22Z'
+Destroying droplet: 0edfd03e-56e4-4673-9211-f7a5c4bce106
+Destroy successful!
+u'2016-08-05T03:42:23Z'
+Destroying droplet: 72610f8b-be4c-41e7-a380-f29fcc5bf1a2
+Destroy successful!
+u'2016-08-05T03:42:23Z'
+Destroying droplet: 08c452d2-2a99-4a59-bb94-51ba6354e138
+Destroy successful!
+u'2016-08-05T03:42:24Z'
+Destroying droplet: cb586c48-3614-4a98-8e76-dcacd9f9ef47
+Destroy successful!
+u'2016-08-05T03:42:24Z'
+Destroying droplet: a8a37a89-f4f1-4ccc-90bd-a4549d6a8762
+Destroy successful!
+u'2016-08-05T03:42:25Z'
+Destroying droplet: debf5f17-784d-42ef-8c27-74680e900789
+Destroy successful!
+u'2016-08-05T03:42:25Z'
+Destroying droplet: 954e0681-eaf4-4d30-8d8b-4e06f4d8c4f8
+Destroy successful!
+u'2016-08-05T03:42:25Z'
+Destroying droplet: 27f0b9ed-641a-4844-93a3-13f9cf1e84b0
+Destroy successful!
+u'2016-08-05T03:42:26Z'
+Destroying droplet: 1a433f31-e50e-4ee1-ac61-a6bdd77d1195
+Destroy successful!
+u'2016-08-05T03:42:27Z'
+Destroying droplet: f28792ee-0b1a-488d-bb66-a3f6ac516500
+Destroy successful!
+u'2016-08-05T03:42:27Z'
+Destroying droplet: f337aa5f-e92e-427e-9f31-cc8a70b7d61a
+Destroy successful!
+u'2016-08-05T03:42:27Z'
+Destroying droplet: b895bcca-6b56-4e64-a69e-be2afa984a54
+Destroy successful!
+u'2016-08-05T03:42:28Z'
+Destroying droplet: 3b9a2429-b36b-4550-a2bb-9faa207fe9c4
+Destroy successful!
+u'2016-08-05T03:42:28Z'
+Destroying droplet: ff256d20-7dc8-4aac-9dd9-24d38c5615b1
+Destroy successful!
+u'2016-08-05T03:42:29Z'
+Destroying droplet: 92e84d47-a811-4ff9-bf30-12df1023aa06
+Destroy successful!
+u'2016-08-05T03:42:29Z'
+Destroying droplet: 5ac9df2e-9d20-4579-bb0d-b427387e31aa
+Destroy successful!
+u'2016-08-05T03:42:30Z'
+Destroying droplet: e7e04714-22d2-43f8-9098-650c8f67625a
+Destroy successful!
+u'2016-08-05T03:42:30Z'
+Destroying droplet: f111237a-027d-4f0b-abdb-4dd0bb66b0ab
+Destroy successful!
+u'2016-08-05T03:42:31Z'
+Destroying droplet: 4c8f8907-4086-4c2d-9d8f-c4f61d82840d
+Destroy successful!
+u'2016-08-05T03:42:31Z'
+Destroying droplet: 27d0cb40-a140-4097-bad9-76384fdb8eda
+Destroy successful!
+u'2016-08-05T03:42:32Z'
+Destroying droplet: ba153ccf-ef88-4523-8885-ef3056ac393c
+Destroy successful!
+u'2016-08-05T03:42:32Z'
+Destroying droplet: 28abf72c-abdf-4e09-8221-2af502e42fcd
+Destroy successful!
+u'2016-08-05T03:42:33Z'
+Destroying droplet: fe9fbfd5-e542-4dc5-9950-74887514cac0
+Destroy successful!
+u'2016-08-05T03:42:33Z'
+Destroying droplet: 558ce556-b128-467b-939a-3a22816c5ed4
+Destroy successful!
+u'2016-08-05T03:42:34Z'
+Destroying droplet: d472fe88-65c7-405c-9a3d-50796fa7da37
+Destroy successful!
+u'2016-08-05T03:42:34Z'
+Destroying droplet: c4fb45bf-56b2-473a-acb2-c3fe6097bb33
+Destroy successful!
+u'2016-08-05T03:42:34Z'
+Destroying droplet: 8a18e953-4779-4d95-9569-9a0113fe19e6
+Destroy successful!
+u'2016-08-05T03:42:35Z'
+Destroying droplet: 232c2fa9-fc63-447b-bc51-3fb9cdb40a2b
+Destroy successful!
+u'2016-08-05T03:42:35Z'
+Destroying droplet: ad283cb1-81f3-474e-901b-a5c17435a87c
+Destroy successful!
+u'2016-08-05T03:42:36Z'
+Destroying droplet: 83cd20e4-250d-4568-becb-60f7352d0ee6
+Destroy successful!
+u'2016-08-05T03:42:36Z'
+Destroying droplet: 861e9732-d829-4c12-aa6d-ce87941bb9e1
+Destroy successful!
+u'2016-08-05T03:42:37Z'
+Destroying droplet: 916281d3-6380-4c65-8d4d-6fad702ddeb1
+Destroy successful!
+u'2016-08-05T03:42:37Z'
+Destroying droplet: b7f5d255-15c7-44ff-abd0-6923f0154c01
+Destroy successful!
+u'2016-08-05T03:42:38Z'
+Destroying droplet: 737cbac2-2dd5-483d-ac35-b51b0686f281
+Destroy successful!
+u'2016-08-05T03:42:38Z'
+Destroying droplet: f35b6634-ba7f-4abb-9e03-7acd3de17c7e
+Destroy successful!
+u'2016-08-05T03:42:38Z'
+Destroying droplet: 0373de5a-ad38-45ca-9797-04c7b38e3f99
+Destroy successful!
+u'2016-08-05T03:42:39Z'
+Destroying droplet: 249feae3-0885-45e7-871c-5f0725553ad6
+Destroy successful!
+u'2016-08-05T03:42:39Z'
+Destroying droplet: c1dbdf21-54ce-47a4-8aa1-b355d5e68ae6
+Destroy successful!
+u'2016-08-05T03:42:40Z'
+Destroying droplet: b2ff8450-f3da-43be-8206-a095c870af29
+Destroy successful!
+u'2016-08-05T03:42:40Z'
+Destroying droplet: 3c5f004b-253f-40f0-88cd-4a3459ec7ad1
+Destroy successful!
+u'2016-08-05T03:42:41Z'
+Destroying droplet: c4d6078b-ae17-4238-8cca-196cb27e4c0c
+Destroy successful!
+u'2016-08-05T03:42:41Z'
+Destroying droplet: 9ee33610-2fc3-45ed-a460-3c169d080c1e
+Destroy successful!
+u'2016-08-05T03:42:41Z'
+Destroying droplet: c852be7a-8840-4fd0-af0f-396332b26a7e
+Destroy successful!
+u'2016-08-05T03:42:42Z'
+Destroying droplet: ca2e59c5-5ebf-43e1-b24c-226ad2a8c9ad
+Destroy successful!
+u'2016-08-05T03:42:42Z'
+Destroying droplet: cc32dd81-81e4-40e7-85f3-b33ff6079626
+Destroy successful!
+u'2016-08-05T03:47:08Z'
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
+u'2016-08-03T17:28:53Z'
+u'2016-08-05T03:56:57Z'
+Destroying droplet: b4f3e357-a845-4cf2-8e1b-1307e18268dc
+Destroy successful!
+u'2016-08-05T03:56:57Z'
+Destroying droplet: 57d1f4f3-0dd5-497f-9417-aa6fd850964b
+Destroy successful!
+u'2016-08-05T03:56:57Z'
+Destroying droplet: 8292fcc8-421a-4912-a966-738e6b37f122
+Destroy successful!
+u'2016-08-05T03:56:58Z'
+Destroying droplet: 2ce41489-d3d5-4ab2-acfd-d61d26770fdc
+Destroy successful!
+u'2016-08-05T03:56:58Z'
+Destroying droplet: a1990e81-4da9-4de7-8adb-6f42e4858376
+Destroy successful!
+u'2016-08-05T03:56:59Z'
+Destroying droplet: 16ec0b1e-f844-40cc-b2d8-0acc5f3ef435
+Destroy successful!
+u'2016-08-05T03:56:59Z'
+Destroying droplet: 7b4bb48a-1ee5-4acc-8358-940bc3f6fa3e
+Destroy successful!
+u'2016-08-05T03:57:00Z'
+Destroying droplet: 021f234b-522e-4f1a-8d56-76967b4f7df6
+Destroy successful!
+u'2016-08-05T03:57:00Z'
+Destroying droplet: f8c70c32-75f2-45ff-9463-8f29846204a1
+Destroy successful!
+u'2016-08-05T03:57:01Z'
+Destroying droplet: 638a69ed-d9f9-4d34-b0d6-042e29575f6d
+Destroy successful!
+u'2016-08-05T03:57:01Z'
+Destroying droplet: bf0fae06-e893-48de-92e1-c7cf80192b65
+Destroy successful!
+u'2016-08-05T03:57:02Z'
+Destroying droplet: 97d1eeb7-cc1f-4ce6-90c9-0143f2e211e0
+Destroy successful!
+u'2016-08-05T03:57:02Z'
+Destroying droplet: a6effa80-c6da-44ef-b1a7-d0b7e6509419
+Destroy successful!
+u'2016-08-05T03:57:03Z'
+Destroying droplet: 80eeee1e-9f1c-4d62-a1e0-428c75a84827
+Destroy successful!
+u'2016-08-05T03:57:03Z'
+Destroying droplet: 5ee702c0-10a5-40dd-9edc-da279a3057b6
+Destroy successful!
+u'2016-08-05T03:57:04Z'
+Destroying droplet: 766736b7-057b-41ea-bdde-dca5d0d5ccf7
+Destroy successful!
+u'2016-08-05T03:57:04Z'
+Destroying droplet: 11793ad7-8c8b-4f69-8996-9641ee4ed82c
+Destroy successful!
+u'2016-08-05T03:57:05Z'
+Destroying droplet: cd708cfd-692d-4b95-8d0d-18a73bff69d9
+Destroy successful!
+u'2016-08-05T03:57:06Z'
+Destroying droplet: 16b1faef-c40d-4a36-8168-7ddd6d40649c
+Destroy successful!
+u'2016-08-05T03:57:06Z'
+Destroying droplet: 36687f36-cf65-41d0-8a1a-80d2bd4df86d
+Destroy successful!
+u'2016-08-05T03:57:07Z'
+Destroying droplet: 764953dd-258d-49fd-90b2-5e6d4557c2a4
+Destroy successful!
+u'2016-08-05T03:57:07Z'
+Destroying droplet: eec58ab8-a4c9-4f7b-a0d4-a44d8b118111
+Destroy successful!
+u'2016-08-05T03:57:08Z'
+Destroying droplet: eb2de486-9e8e-4444-9299-97db36c41d78
+Destroy successful!
+u'2016-08-05T03:57:08Z'
+Destroying droplet: a9fb7b3d-9610-432e-a78b-fb9b76c4ed2c
+Destroy successful!
+u'2016-08-05T03:57:09Z'
+Destroying droplet: 2d0df589-cdc7-4f7f-b54d-f8448b89a1cf
+Destroy successful!
+u'2016-08-05T03:57:09Z'
+Destroying droplet: e6daf5e2-7462-4bb2-9396-f95692a7b69f
+Destroy successful!
+u'2016-08-05T03:57:10Z'
+Destroying droplet: cb5a4957-24cc-454a-975a-6010bef2f603
+Destroy successful!
+u'2016-08-05T03:57:10Z'
+Destroying droplet: c8357086-b96f-426f-8139-375c599816ea
+Destroy successful!
+u'2016-08-05T03:57:11Z'
+Destroying droplet: bb3e6dbd-aa7f-46aa-aa4c-e51042158ceb
+Destroy successful!
+u'2016-08-05T03:57:11Z'
+Destroying droplet: 7ce819b2-2ac0-4e72-9278-8c242e172946
+Destroy successful!
+u'2016-08-05T03:57:11Z'
+Destroying droplet: 7b98bbfa-7f36-45d2-8717-c68685ac2a3a
+Destroy successful!
+u'2016-08-05T03:57:12Z'
+Destroying droplet: 6d6ae59b-b8ee-4a26-8a7d-015983c38a9a
+Destroy successful!
+u'2016-08-05T03:57:13Z'
+Destroying droplet: a60c0c4b-3450-4e64-84a4-d64dd884d644
+Destroy successful!
+u'2016-08-05T03:57:13Z'
+Destroying droplet: 5c70fba7-0d72-4e7c-ba31-636818105952
+Destroy successful!
+u'2016-08-05T03:57:14Z'
+Destroying droplet: dc3b62cb-0c4e-4a87-ae46-0cdc14c8d201
+Destroy successful!
+u'2016-08-05T03:57:14Z'
+Destroying droplet: 875af0d3-f68b-4d9b-8348-622f7f97b926
+Destroy successful!
+u'2016-08-05T03:57:14Z'
+Destroying droplet: 4c890d99-bef7-48ca-82b1-f76b590affc7
+Destroy successful!
+u'2016-08-05T03:57:15Z'
+Destroying droplet: 9e123aee-02d3-4b0b-81a0-67dd1e08e6a4
+Destroy successful!
+u'2016-08-05T03:57:15Z'
+Destroying droplet: e62473cd-8410-4cb5-8418-761ba4efe6dc
+Destroy successful!
+u'2016-08-05T03:57:16Z'
+Destroying droplet: 1a4c14da-82e4-4ab2-8aa9-6302aadc7266
+Destroy successful!
+u'2016-08-05T03:57:16Z'
+Destroying droplet: 46f8b65c-cccf-4307-82b6-c6cbc9b61a9e
+Destroy successful!
+u'2016-08-05T03:57:17Z'
+Destroying droplet: 76bbadf5-314d-4b66-9425-36c1200837af
+Destroy successful!
+u'2016-08-05T03:57:17Z'
+Destroying droplet: a047694b-0cdb-4646-bfb9-d0016fca7caa
+Destroy successful!
+u'2016-08-05T03:57:18Z'
+Destroying droplet: b7bbc128-d458-43d4-924e-382347c3fc13
+Destroy successful!
+u'2016-08-05T03:57:18Z'
+Destroying droplet: 04d026f3-820e-40c7-b590-e9b921ecea7e
+Destroy successful!
+u'2016-08-05T03:57:19Z'
+Destroying droplet: a0316a1e-137c-4c00-bc14-1d35500dbcc8
+Destroy successful!
+u'2016-08-05T03:57:19Z'
+Destroying droplet: 715a6d09-35a0-411d-995d-4024142d111b
+Destroy successful!
+u'2016-08-05T03:57:20Z'
+Destroying droplet: 1dd06ba8-26ef-4ce8-a591-b5a9a930fdc5
+Destroy successful!
+u'2016-08-05T04:00:40Z'
+Destroying droplet: b2e68c91-ce97-409f-8234-a4834ff1d3ce
+Destroy successful!
+u'2016-08-05T04:00:41Z'
+Destroying droplet: 0ac6aa5f-2139-4b91-ba17-2f8be6eba2e6
+Destroy successful!
+u'2016-08-05T04:00:42Z'
+Successfully started worker #0
+Successfully started worker #1
+Successfully started worker #2
+Successfully started worker #3
+Successfully started worker #4
+Successfully started worker #5
+Successfully started worker #6
+Successfully started worker #7
+Successfully started worker #8
+Successfully started worker #9
+Successfully started worker #10
+Successfully started worker #11
+Successfully started worker #12
+Successfully started worker #13
+Successfully started worker #14
+Successfully started worker #15
+Successfully started worker #16
+Successfully started worker #17
+Successfully started worker #18
+Successfully started worker #19
+Successfully started worker #20
+Successfully started worker #21
+Successfully started worker #22
+Successfully started worker #23
+Successfully started worker #24
+Successfully started worker #25
+Successfully started worker #26
+Successfully started worker #27
+Successfully started worker #28
+Successfully started worker #29
+Successfully started worker #30
+Successfully started worker #31
+Successfully started worker #32
+Successfully started worker #33
+Successfully started worker #34
+Successfully started worker #35
+Successfully started worker #36
+Successfully started worker #37
+Successfully started worker #38
+Successfully started worker #39
+Successfully started worker #40
+Successfully started worker #41
+Successfully started worker #42
+Successfully started worker #43
+Successfully started worker #44
+Successfully started worker #45
+Successfully started worker #46
+Successfully started worker #47
+Successfully started worker #48
+Successfully started worker #49
