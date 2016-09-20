@@ -6,9 +6,13 @@ from pprint import pprint
 from csv import DictReader
 from collections import OrderedDict
 
-import pandas
+import pandas as pd
 import pandas_datareader.data as web
 from scipy import stats
+import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.style.use('ggplot')
+from sklearn import preprocessing
 
 
 
@@ -19,7 +23,7 @@ def generate_finance_data(days_ago, stock_ticker):
 
     # Interpolate holidays and weekends
     # ---------------------------------
-    missing_date_idx = pandas.date_range(str(df.ix[0].name.date()), str(df.ix[-1].name.date()))
+    missing_date_idx = pd.date_range(str(df.ix[0].name.date()), str(df.ix[-1].name.date()))
     return df.reindex(missing_date_idx).interpolate()
 
 
@@ -54,7 +58,7 @@ def bucket_posts_by_day(input_csv, days_ago):
     return date_dict
 
 
-def main(input_filename, days_ago, stock_ticker, offset):
+def main(input_filename, stock_ticker, days_ago, offset):
     if len(set([input_filename, days_ago, stock_ticker])) == 1:
         try:
             input_filename = sys.argv[1]
@@ -69,13 +73,20 @@ def main(input_filename, days_ago, stock_ticker, offset):
 
     date_dict = bucket_posts_by_day(input_filename, days_ago+offset)
     finance_frame = generate_finance_data(days_ago + offset, stock_ticker)
-    daterange = pandas.date_range(start=str(date_dict.items()[0][0]), end=date_dict.items()[-1][0])
-    insta_series = pandas.Series([v for k,v in date_dict.items()], index=daterange)
-    finance_frame['NumPosts'] = insta_series
-    shifted_frame = finance_frame.NumPosts.shift(offset)
+    daterange = pd.date_range(start=str(date_dict.items()[0][0]), end=date_dict.items()[-1][0])
+    insta_series = pd.Series([v for k,v in date_dict.items()], index=daterange)
+    finance_frame['NumPosts'] = insta_series.shift(offset)
+    del finance_frame['Volume']
 
+    finance_frame = finance_frame.dropna()
+    date_idx = pd.date_range(str(finance_frame.ix[0].name.date()), str(finance_frame.ix[-1].name.date()))
+    x_scaled = preprocessing.MinMaxScaler().fit_transform(finance_frame)
+    df_normalized = pd.DataFrame(x_scaled, columns=finance_frame.columns, index=finance_frame.index)
 
-    return finance_frame
+    df_normalized.plot()
+    finance_frame.plot()
+
+    return df_normalized
 
 if __name__ == '__main__':
     main(None, None, None, None)
